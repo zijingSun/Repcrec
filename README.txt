@@ -1,7 +1,5 @@
 CSCI-GA.2434-001 Project: RepCRec 
 
-Author: Zijing Sun(zs2198) Hanwei Peng(hp2166)
-
 Unzip .rpz file:
 ./reprounzip directory setup RepCRecProject.rpz <directory>
 
